@@ -1,8 +1,8 @@
 # Cozmo Shape Sketch!!
 
-Created by Malcolm Fitzgerald (@Plutoftw) and Jaxon Kneipp (@JaxonKneipp)
+Created by Malcolm Fitzgerald (@Plutoftw) and Jaxon Kneipp ([@JaxonKneipp](https://github.com/JaxonKneipp))
 
-Python script harnessing the power of the Cozmo python SDK to draw shapes on a physical page!
+Python script harnessing the power of the [Anki](https://github.com/anki) Cozmo python SDK to draw shapes on a physical page!
 
 ### Instructions
 
