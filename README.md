@@ -11,4 +11,8 @@ Python script harnessing the power of the Cozmo python SDK to draw shapes on a p
 3. Place powercube (with pen attached) onto the lift.
 4. Run program through terminal, see the [Cozmo SDK Documentation](http://cozmosdk.anki.com/docs/getstarted.html) to find out more!
 
+### Photos
 
+![Image 1](https://github.com/Plutoftw/cozmo_shape_sketch/blob/master/photos/1.jpg)
+![Image 2](https://github.com/Plutoftw/cozmo_shape_sketch/blob/master/photos/2.jpg)
+![Image 3](https://github.com/Plutoftw/cozmo_shape_sketch/blob/master/photos/3.jpg)
