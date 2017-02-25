@@ -1,6 +1,6 @@
 # Cozmo Shape Sketch!!
 
-Created by Malcolm Fitzgerald and Jaxon Kneipp
+Created by Malcolm Fitzgerald (@Plutoftw) and Jaxon Kneipp (@JaxonKneipp)
 
 Python script harnessing the power of the Cozmo python SDK to draw shapes on a physical page!
 
